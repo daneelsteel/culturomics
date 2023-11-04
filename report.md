@@ -1,32 +1,3 @@
-<!-- Output copied to clipboard! -->
-
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 7
-
-Conversion time: 1.44 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Sat Nov 04 2023 04:48:04 GMT-0700 (PDT)
-* Source doc: культуромика отчет
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
 <p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 7.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
@@ -45,7 +16,7 @@ Conversion notes:
 
 До недавнего времени такого рода исследования требовали много сил и времени. Сегодня компьютерные технологии и корпусная лингвистика дают вам принципиально новые инструменты. Лингвистические корпуса и менеджеры корпусов позволяют относительно легко получить данные о встречаемости языковых единиц в разные периоды времени. Например, в исследовании Charlesworth и Caliskan (2022), используя векторные эмбеддинги 850 миллиардов слов в англоязычных Google Книгах, авторы проводят обширный анализ исторических изменений и стабильности представлений социальных групп (стереотипов) на протяжении длительного периода времени (с 1800 по 1999 год) для большого количества целевых социальных групп. (Черный, Белый, Азиат, Ирландец, Латиноамериканец, Индеец, Мужчина, Женщина, Старый, Молодой, Толстый, Худой, Богатый, Бедный) и их возникающие восходящие ассоциации с 14 000 слов и подмножеством из 600 черт (рис.1)
 
-(images/image1.png "image_tooltip")
+![alt_text](images/image2.png "image_tooltip")
 Рис.1. Изменение тональности стереотипов о группах людей по годам
 
 Большие данные сегодня широко используются в цифровой культуре как многообещающий метод получения нового понимания из огромных скоплений информации. Возможность собирать огромные объемы данных из текста, изображений и медиа (голос, видео), агрегировать данные и анализировать их с помощью компьютеризированных алгоритмов создает безграничные перспективы во многих областях. Лекарства разрабатываются на основе данных, измеренных и собранных у пациентов прямо во время лечения. Бизнес-аналитика является неотъемлемой частью банков, правительств и рынка в целом. Шмидт и Липсон (2009) объясняют, как они выводят законы Ньютона из системы анализа данных, используя алгоритмы для обнаружения закономерностей маятника. Google может переводить с китайского на английский на основе агрегирования предыдущих переводов в поисках сходства.
